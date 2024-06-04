@@ -1,3 +1,5 @@
 print("hello")
-print("isdjijik")
-print(" jhsfvfxvc")
+print("see you")
+print("bye")
+print(34+76)
+print(56>23)
